@@ -29,7 +29,7 @@ The R-based analysis includes:
 ## 📁 File Description
 
 - `hw1.pdf`: Detailed write-up containing conceptual answers and R instructions  
-- (Optional: Add R script or notebook if available)
+
 
 ---
 
