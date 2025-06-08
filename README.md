@@ -1,35 +1,43 @@
-# ML Project 1: Concepts of Statistical Learning (Chapters 1–2)
+# ML-HW1: Concepts of Statistical Learning
 
-This project explores foundational ideas in **Statistical Learning**, completed as part of the *STAT 427/627: Statistical Machine Learning* course at American University. It covers theoretical concepts, problem-solving, and practical data analysis using R.
+This repository contains Homework #1 for **STAT 427/627: Statistical Machine Learning** at American University, completed by Alphonso J. Saiewane. The assignment is based on Chapters 1–2 of *An Introduction to Statistical Learning*.
 
----
-
-## 📘 Topics Explored
-
-- Bias-Variance Tradeoff  
-- Flexible vs. Inflexible Models  
-- Classification vs. Regression  
-- Inference vs. Prediction  
-- Understanding modeling scenarios (n, p, goals)  
-- Real-world applications of statistical learning  
-- Exploratory data analysis with the `College` dataset
+It covers:
+- The bias-variance tradeoff
+- Scenarios comparing flexible vs. inflexible models
+- Classification vs. regression tasks
+- Real-world applications of statistical learning
+- A hands-on analysis of the `College` dataset using R
 
 ---
 
-## 🧪 Practical Component (R)
+## 🧪 Methods Used
 
-The R-based analysis includes:
-- Loading and summarizing the `College` dataset from the **ISLR2** package
-- Creating visualizations using `pairs()`, `boxplot()`, and `hist()`
-- Feature engineering (e.g., creating an "Elite" variable)
-- Building a linear regression model to explore relationships between institutional features and enrollment
+- R programming via [Quarto](https://quarto.org/)
+- Exploratory data analysis
+- Boxplots, histograms, and scatterplot matrices
+- Feature engineering (`Elite` variable)
+- Linear regression model
 
 ---
 
-## 📁 File Description
+## 📄 Files Included
 
-- `hw1.pdf`: Detailed write-up containing conceptual answers and R instructions  
+| File | Description |
+|------|-------------|
+| `1Homework.qmd` | R Quarto source file |
+| `1Homework.html` | Rendered HTML report with all plots and outputs |
+| `1Homework.pdf` | Final written version of the homework |
+| `College_dataset.xlsx` | Dataset used in the analysis |
+| `Capture.png` | Supplementary image (optional) |
 
+---
+
+## 🔍 To View the Full Report
+
+Open either of the following files from this repository:
+- 📄 [`1Homework.html`](./1Homework.html) — **Best for visual exploration**
+- 📄 [`1Homework.pdf`](./1Homework.pdf) — **Print-friendly written format**
 
 ---
 
@@ -37,4 +45,5 @@ The R-based analysis includes:
 
 **Alphonso J. Saiewane**  
 M.S. Data Science — American University  
-📍 Washington, D.C. | 🌐 [https://github.com/Jeromas]
+📍 Washington, D.C.  
+🌐 [https://github.com/Jeromas](https://github.com/Jeromas)
